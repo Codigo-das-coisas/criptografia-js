@@ -6,3 +6,7 @@ h1 {
 textarea{
     resize: none;
 }
+
+.container{
+    max-width: 1180px;
+}
